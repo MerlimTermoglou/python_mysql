@@ -33,3 +33,5 @@ for c in cursor:
     print(f"Id do Cliente: {c[0]}")
     print(f"nome do Cliente: {c[1]}")
     print(f"E-mail: {c[2]}")
+
+
